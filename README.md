@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-<img src="https://img.shields.io/badge/<img src=https://simpleicons.org/icons/autohotkey.svg>&logo=AHK&logoColor=white">
+<img src="https://img.shields.io/badge/simpleicons.org/icons/autohotkey.svg&logo=AHK&logoColor=white">
 
 
 <!--
