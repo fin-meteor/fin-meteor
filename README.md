@@ -3,10 +3,6 @@
 <img width="100%" src="https://user-images.githubusercontent.com/53894507/185983820-f9aba1e8-15c3-4fac-bb0f-5eb33392c32e.png"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fin-meteor)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fin-meteor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💻 My Stack
 
 <div align=center> 
@@ -38,6 +34,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fin-meteor&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fin-meteor&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
