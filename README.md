@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type= waving&color=timeGradient&height=300&text=Choi%20HoonSeok&animation=twinkling&fontSize=80&fontAlignY=35))
+![header](https://capsule-render.vercel.app/api?&type= slice&color=timeGradient&height=300&text=Choi%20HoonSeok&animation=twinkling&fontSize=80&fontAlignY=35))
 
 ### Hi there 👋
 
