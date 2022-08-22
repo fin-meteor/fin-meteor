@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=200&text=Choi%20HoonSeok&animation=twinkling&fontSize=80&fontAlignY=35)
 
-<img width="100%" src="https://github.com/fin-meteor/fin-meteor/issues/1#issuecomment-1222679446"/>
+<img width="100%" src="[https://github.com/fin-meteor/fin-meteor/issues/1#issuecomment-1222679446](https://user-images.githubusercontent.com/53894507/185983820-f9aba1e8-15c3-4fac-bb0f-5eb33392c32e.png)"/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fin-meteor)](https://github.com/anuraghazra/github-readme-stats)
