@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=200&text=Choi%20HoonSeok&animation=twinkling&fontSize=80&fontAlignY=35)
 
-<img width="100%" src="https://user-images.githubusercontent.com/53894507/185983820-f9aba1e8-15c3-4fac-bb0f-5eb33392c32e.png"/>
+<br>
 <a href="https://fin-meteor.github.io/" [href="카데나동방"]>
 <img width="100%" src="https://user-images.githubusercontent.com/53894507/185983820-f9aba1e8-15c3-4fac-bb0f-5eb33392c32e.png"/> </a>
  
